@@ -1,0 +1,2 @@
+# mmc
+Mathematical Modeling Contest
